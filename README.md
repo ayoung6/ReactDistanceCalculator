@@ -42,6 +42,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+[JSON-server](https://www.npmjs.com/package/json-server)
+Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+
+Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
