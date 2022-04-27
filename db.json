@@ -1,0 +1,61 @@
+{
+  "distances": [
+    {
+      "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQChIJW-T2Wt7Gt4kRKl2I1CJFUsIDriving",
+      "id2": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsIChIJ-bDD5__lhVQRuvNfbGh4QpQDriving",
+      "location1": {
+        "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQ",
+        "address": "Washington, USA",
+        "lat": 47.7510741,
+        "lng": -120.7401386
+      },
+      "location2": {
+        "id": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+        "address": "Washington, DC, USA",
+        "lat": 38.9071923,
+        "lng": -77.0368707
+      },
+      "distance": "4,291 km",
+      "duration": "1 day 16 hours",
+      "method": "Driving"
+    },
+    {
+      "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQChIJW-T2Wt7Gt4kRKl2I1CJFUsIBicycling",
+      "id2": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsIChIJ-bDD5__lhVQRuvNfbGh4QpQBicycling",
+      "location1": {
+        "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQ",
+        "address": "Washington, USA",
+        "lat": 47.7510741,
+        "lng": -120.7401386
+      },
+      "location2": {
+        "id": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+        "address": "Washington, DC, USA",
+        "lat": 38.9071923,
+        "lng": -77.0368707
+      },
+      "distance": "4,574 km",
+      "duration": "9 days 20 hours",
+      "method": "Bicycling"
+    },
+    {
+      "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQChIJW-T2Wt7Gt4kRKl2I1CJFUsIWalking",
+      "id2": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsIChIJ-bDD5__lhVQRuvNfbGh4QpQWalking",
+      "location1": {
+        "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQ",
+        "address": "Washington, USA",
+        "lat": 47.7510741,
+        "lng": -120.7401386
+      },
+      "location2": {
+        "id": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsI",
+        "address": "Washington, DC, USA",
+        "lat": 38.9071923,
+        "lng": -77.0368707
+      },
+      "distance": "4,248 km",
+      "duration": "36 days 1 hour",
+      "method": "Walking"
+    }
+  ]
+}
