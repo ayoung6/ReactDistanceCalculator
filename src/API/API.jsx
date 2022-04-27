@@ -8,7 +8,6 @@ API.postResults = async (loc1, loc2, distance, method, distances) => {
     let dupe = false;
     const packet = {
         id: loc1.id + loc2.id + method,
-        id2: loc2.id + loc1.id + method,
         location1: { ...loc1 },
         location2: { ...loc2 },
         distance: distance.distance.text,
@@ -17,7 +16,7 @@ API.postResults = async (loc1, loc2, distance, method, distances) => {
     };
 
     Object.entries(distances).map(([, val]) => {
-        if (val.id === packet.id || val.id2 === packet.id) {
+        if (val.id === packet.id) {
             dupe = true;
             return;
         }

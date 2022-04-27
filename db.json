@@ -2,7 +2,6 @@
   "distances": [
     {
       "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQChIJW-T2Wt7Gt4kRKl2I1CJFUsIDriving",
-      "id2": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsIChIJ-bDD5__lhVQRuvNfbGh4QpQDriving",
       "location1": {
         "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQ",
         "address": "Washington, USA",
@@ -21,7 +20,6 @@
     },
     {
       "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQChIJW-T2Wt7Gt4kRKl2I1CJFUsIBicycling",
-      "id2": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsIChIJ-bDD5__lhVQRuvNfbGh4QpQBicycling",
       "location1": {
         "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQ",
         "address": "Washington, USA",
@@ -40,7 +38,6 @@
     },
     {
       "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQChIJW-T2Wt7Gt4kRKl2I1CJFUsIWalking",
-      "id2": "ChIJW-T2Wt7Gt4kRKl2I1CJFUsIChIJ-bDD5__lhVQRuvNfbGh4QpQWalking",
       "location1": {
         "id": "ChIJ-bDD5__lhVQRuvNfbGh4QpQ",
         "address": "Washington, USA",

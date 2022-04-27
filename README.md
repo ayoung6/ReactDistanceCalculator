@@ -1,3 +1,15 @@
+# Instalation
+
+Requires NPM
+
+`npm i --save --force --loglevel=error .` is the recommended way to install npm packages, this will take a minute or so
+
+The backend is powered by JSON-server and can be ran by using `npm run api`
+Then the web application can be ran with `npm run start`
+
+You will need to add your Google api key to the `src/APP.js` file in the indicated variable, be sure to enable `Distance Matrix API`, `Maps JavaSript API`, and `Places API`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
